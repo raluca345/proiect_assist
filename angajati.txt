@@ -1,0 +1,8 @@
+A,A,A,I,I,M,M
+Apetrei,Mihai,48
+Popa,Mihaela,57
+Ilies,Andreea,100
+Cristinescu,Vasile,4
+Bujor,Serban,13
+Cojocaru,Ovidiu,140
+Vacaru,Sabina,160
